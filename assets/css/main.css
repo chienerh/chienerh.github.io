@@ -2751,7 +2751,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				color: #ffffff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2772,7 +2772,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #ffffff;
 				}
 
 		#header > nav {
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #ffffff;
 					display: block;
 					padding: 0;
 				}
@@ -2843,7 +2843,7 @@ input, select, textarea {
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		#footer .copyright {
